@@ -11,4 +11,5 @@ git reset
 git checkout .
 git remote add origin apply to link
 git push -u origin master
-
+git branch
+git checkout branch name 

@@ -1,1 +1,4 @@
 Hello my name is Dipak Rana
+
+First of all make a folder and make in subtext file and git bash run in this folder and run git 
+ininit and li -la and git status and git add . and git commit -m "message" and git log after some time git diff to show all whose change in this file 
